@@ -35,8 +35,8 @@
 
 ## 📫 Let’s Connect
 
-- Email: [your.email@example.com]  
-- LinkedIn: [linkedin.com/in/yourusername]  
+- Email: [melushanzi32@gmail.com]  
+- LinkedIn: [www.linkedin.com/in/melusi-shanzi-1875b3350]  
 - Portfolio: [Coming soon...]
 
 ---
