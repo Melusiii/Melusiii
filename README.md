@@ -1,6 +1,6 @@
-# 👋 Hey, I'm Trust (aka Melusi)
+# 👋 Hey, I'm Melusi
 
-🎓 First-year Computer Science student at Africa University  
+🎓 Second-year Computer Science student at Africa University  
 🔐 Cybersecurity enthusiast | 💻 Python developer | 🚀 Hackathon builder  
 📍 Based in Zimbabwe
 
