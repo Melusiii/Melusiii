@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Melusi
 
-🎓 Second-year Computer Science student at Africa University  
+🎓 Computer Science student at Africa University  
 🔐 Cybersecurity enthusiast | 💻 Python developer | 🚀 Hackathon builder  
 📍 Based in Zimbabwe
 
