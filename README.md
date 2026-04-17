@@ -1,19 +1,31 @@
 # 👋 Hey, I'm Melusi
 
-🎓 Computer Science student at Africa University  
-🔐 Cybersecurity enthusiast | 💻 Python developer | 🚀 Hackathon builder  
-📍 Based in Zimbabwe
+🎓 CS student @ Africa University, Zimbabwe
+💻 Full-stack developer building real products with React, Next.js & Supabase
+🔐 Cybersecurity learner — breaking things to understand how to protect them
+🚀 Hackathon builder · Africa-focused fintech · open to collabs
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Stack
 
-- **Languages:** Python, C#, JavaScript  
-- **Tools:** Git, VS Code, Postman  
-- **Cybersec:** Wireshark, Nmap, hashlib, cryptography  
-- **Databases:** SQLite, Firebase (dabbling…)
+| | |
+|---|---|
+| **Frontend** | React · Next.js · JavaScript |
+| **Backend & data** | Supabase · Firebase · SQLite · PostgreSQL (learning) |
+| **Languages** | Python · C# · JavaScript |
+| **Cybersec** | Wireshark · Nmap · hashlib · cryptography |
+| **Tools** | Git · VS Code · Postman |
 
 ---
 
-> _“Code like a hacker, think like a defender.”_
+## 🚀 Projects
 
+📱 **Budget Tracker** — personal finance app  
+🎮 **Gamified Task Manager** — productivity meets game mechanics (Python)  
+🤖 **Finance Chatbot** — AI-powered, built for African financial contexts  
+🔐 **Cybersecurity Toolkit** — personal collection of security scripts & tools  
+
+---
+
+> *"Code like a hacker, think like a defender."*
